@@ -99,12 +99,8 @@
 			<div class="container about">
 				<div class="bio">
 					
-					<h1>Lorem ipsum &amp; dolor sit amet consectegur adiscping lorem ipsum.</h1>
-					<!-- <h2 class="caps">Programming philosophi</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quos! <span class="emphatise">start using,</span> then will <span class="emphatise">enjoy using,</span> and finally <span class="emphatise">gain benefit from using.</span></p>
-					<h2 class="caps">Professional Bio</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam consectetur id illo nam suscipit eum rem error! Animi doloribus saepe excepturi quis eaque rem dicta voluptas vel reprehenderit sint odio.</p>
- -->
+					<h1>Passionate about web mobile development and advocate of open source initiatives.</h1>
+
  					<p>I'm Arthur Figueiredo, I'm only 18 years old, working with web development for over two years, currently working on ADMT, where I'm responsible for the front-end development and development of virtual stores using the Magento platform.</p>	
 				</div>
 			</div>
