@@ -21,7 +21,7 @@ The basic structure of the project is given in the following way:
 |-- projects/
 |-- sass/
 |-- config.rb
-`-- index.php
+`-- index.html
 ```
 
 #### [css/](https://github.com/arthurfigueiredo/arthurfigueiredo.github.io/tree/master/css)
@@ -44,7 +44,7 @@ Contains SCSS files of this amazing interface
 
 Config file of compass
 
-#### [index.php/](https://github.com/arthurfigueiredo/arthurfigueiredo.github.io/tree/master/index.php)
+#### [index.html/](https://github.com/arthurfigueiredo/arthurfigueiredo.github.io/tree/master/index.html)
 
 The first and unique page of website
 
