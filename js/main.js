@@ -9,7 +9,7 @@ $(function(){
 		
 		var i = projects.length;
 		while(i--){
-			n+$(window).height()-projectsStartsAfter>projects[i].position().top ? projects[i].classList.add("trans"): projects[i].classList.remove("trans");
+			n+$(window).height()-projectsStartsAfter>$(projects[i]).position().top ? projects[i].classList.add("trans"): projects[i].classList.remove("trans");
 		}
 
 	});
